@@ -1,0 +1,10 @@
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\domain\dto\AttorneyRequestDto.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\web\AttorneyController.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\domain\mapper\AttorneyMapper.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\exception\ResourceNotFoundException.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\service\impl\AttorneyServiceImpl.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\repository\AttorneyRepository.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\domain\model\Attorney.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\MsAttorneyApplication.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\service\AttorneyService.java
+C:\Users\josey\OneDrive\Escritorio\SonarQ\T09-SOA-Attorney\src\main\java\com\example\MsAttorney\domain\dto\AttorneyResponseDto.java
